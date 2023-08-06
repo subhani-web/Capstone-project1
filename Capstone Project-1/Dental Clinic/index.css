@@ -1,0 +1,119 @@
+div[id="d1"]
+{
+	margin-left: 200px;
+	height: 150px;
+	width: 800px;
+	background-repeat: no-repeat;
+
+	background-color: red;
+	background-image: url('images/img0.jpg');
+background-size: 800px 150px;
+
+}
+div[id="d2"]
+{
+	margin-left: 200px;
+	height: 400px;
+	width: 800px;
+	background-color: blue;
+	background-image: url('images/img1.jpg');
+	background-size: 800px 400px;
+
+}
+div[id="d3"]
+{
+	margin-left: 200px;
+	height: 500px;
+	width: 800px;
+	background-color: green;
+	background-image: url('images/img2.jpg');
+background-size: 800px 500px;
+}
+div[id="d4"]
+{
+	margin-left: 200px;
+	height: 300px;
+	width: 800px;
+	background-color: green;
+	background-image: url('images/img3.jpg');
+background-size: 800px 300px;
+padding:50px;
+box-sizing: border-box;
+}
+span[id="d4s1"]
+{  
+	font-weight: bold;
+	font-size: 30px;
+}
+p[d="d4p1"]
+{
+ font-size: 10px;
+color: blue;
+}
+div[id="d5"]
+{
+	margin-left: 200px;
+	height: 100px;
+	width: 800px;
+	background-color: skyblue;
+}
+span[id="d5s1"]
+{  display: block;
+	padding-top: 10px;
+	padding-left: 300px;
+	font-size: 20px;
+}
+input[name="d5b1"]
+{
+	margin-top: 15px;
+	margin-left: 350px;
+	border: 1px blue solid;
+	padding:5px;
+	background-color: blue;
+	color: white;
+}
+div[id="d6"]
+{
+	margin-left: 200px;
+	height: 300px;
+	width: 800px;
+	background-color: blue;
+		background-image: url('images/img4.jpg');
+background-size: 800px 300px;
+}
+div[id="d7"]
+{
+	margin-left: 200px;
+	height: 400px;
+	width: 800px;
+	background-color: blue;
+	background-image: url('images/img5.jpg');
+background-size: 800px 400px;
+	}
+	div[id="d8"]
+{
+	margin-left: 200px;
+	height: 400px;
+	width: 800px;
+	background-color: green;
+	background-image: url('images/img6.jpg');
+background-size: 800px 400px;
+	}
+	div[id="d9"]
+{
+	margin-left: 200px;
+	height: 200px;
+	width: 800px;
+	background-color: pink;
+	background-image: url('images/img7.jpg');
+background-size: 800px 200px;
+	}
+	div[id="d10"]
+{
+	margin-left: 200px;
+	height: 200px;
+	width: 800px;
+	background-color: orange;
+	background-image: url('images/img8.jpg');
+background-size: 800px 300px;
+	}
